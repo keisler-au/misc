@@ -1,4 +1,4 @@
-[
+const verbs = [
   {
     "en": "to work",
     "type": "regular",
@@ -498,7 +498,7 @@
     "Onvoltooid verleden tijd enkelvoud": "vroeg",
     "Onvoltooid verleden tijd meervoud": "vroegen",
     "Voltooid deelwoord": "heeft gevraagd",
-  },
+  }
   // {
   //   "en": "to understand",
   //   "type": "irregular",
